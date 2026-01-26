@@ -2,10 +2,17 @@
 
 # haiiii hiii~!
 
-<img src="https://count.getloli.com/@uwuclxdyy?name=uwuclxdy&theme=moebooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Profile visitor counter">
+<img src="https://count.getloli.com/@uwuclxdyysdsd?name=uwuclxdy&theme=moebooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Profile visitor counter">
 <p><i>visitors since 2025-11-09</i></p>
 
+</div>
+
 ---
+
+<details>
+<summary><b>more 🥀</b></summary>
+
+<div align="center">
 
 newgen vibecoder 😂✌️
 
@@ -28,5 +35,7 @@ newgen vibecoder 😂✌️
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+
+</details>
 
 </div>
