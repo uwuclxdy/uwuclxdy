@@ -14,6 +14,8 @@
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
+---
+
 [uwuclxdy.dev](https://uwuclxdy.dev)
 
 </div>
