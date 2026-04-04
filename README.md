@@ -28,6 +28,8 @@
 <details>
     <summary><b>My AUR Packages</b></summary>
     <ul align="left">
+        <li><a href="https://aur.archlinux.org/packages/larpshell">larpshell</a></li>
+        <li><a href="https://aur.archlinux.org/packages/larpshell-git">larpshell-git</a></li>
         <li><a href="https://aur.archlinux.org/packages/zluda-preview-bin">zluda-preview-bin</a></li>
         <li><a href="https://aur.archlinux.org/packages/piebald-bin">piebald-bin</a></li>
         <li><a href="https://aur.archlinux.org/packages/coopmat-layer-git">coopmat-layer-git</a></li>
