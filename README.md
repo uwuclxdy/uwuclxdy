@@ -2,10 +2,10 @@
 
 # haiiii hiii~!
 
+<img align="right" src="yyyouusedai.png" width="280" alt="placeholder" />
+
 <img src="https://count.getloli.com/@uwuclxdyy?name=uwuclxdy&theme=moebooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Profile visitor counter">
 <p><i>views since 2025-11-09</i></p>
-
-###
 
 <img src="https://streak-stats.demolab.com?user=uwuclxdy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 
