@@ -50,6 +50,5 @@
 
 ## Claude Code
 
-<p>
-  <a href="https://github.com/uwuclxdy/claudix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=uwuclxdy&repo=claudix&theme=catppuccin_mocha" width="48%" align="left" /></a><a href="https://github.com/uwuclxdy/clauth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=uwuclxdy&repo=clauth&theme=catppuccin_mocha" width="48%" align="right" /></a>
-</p>
+<a href="https://github.com/uwuclxdy/claudix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=uwuclxdy&repo=claudix&theme=catppuccin_mocha" width="420rem" align="left" /></a><a href="https://github.com/uwuclxdy/clauth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=uwuclxdy&repo=clauth&theme=catppuccin_mocha" width="420rem" align="right" /></a>
+<br clear="all" />
