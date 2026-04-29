@@ -47,3 +47,7 @@
 *[uwuclxdy.dev](https://uwuclxdy.dev)*
 
 </div>
+
+## Claude Code
+
+<p align="center"><a href="https://github.com/uwuclxdy/claudix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=uwuclxdy&repo=claudix&theme=catppuccin_mocha" width="400" align="top" /></a>  <a href="https://github.com/uwuclxdy/clauth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=uwuclxdy&repo=clauth&theme=catppuccin_mocha" width="400" align="top" /></a></p>
