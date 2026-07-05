@@ -53,7 +53,7 @@
 </details>
 
 > [!NOTE]
-> I do **not** use LLMs when contributing to public repos. When I do, I explicitly say so. My vibecoded repos are tagged "vibecoded" and colored orange on my (vibecoded) website.
+> I try to not use LLMs when contributing to public repos and say so when I do. My vibecoded repos are tagged "vibecoded" and colored orange on my (vibecoded) website.
 
 <div align="center">
 
