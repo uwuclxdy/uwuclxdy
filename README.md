@@ -4,8 +4,12 @@
 
 <!-- <img align="right" src="yyyouusedai.png" width="280" alt="placeholder" /> -->
 
-<img src="https://count.getloli.com/@uwuclxdyy?name=uwuclxdy&theme=moebooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Profile visitor counter">
-<p><i>views since 2025-11-09</i></p>
+<div>
+    <img align="right" width="289" height="300" alt="uwuclxdy is the greatest vibecoder from israel" src="https://github.com/user-attachments/assets/72716a34-8628-4b01-be5c-faff3c0941c3" />
+    <img src="https://count.getloli.com/@uwuclxdyy?name=uwuclxdy&theme=moebooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="sussy profile visitor counter">
+    <br>
+    <i>views since 2025-11-09</i>
+</div>
 
 </div>
 
@@ -51,9 +55,6 @@
     <summary><b>striks n shi</b></summary>
     <img align="left " src="https://streak-stats.demolab.com?user=uwuclxdy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </details>
-
-> [!NOTE]
-> I use AI as a tool and I'm honest about its usage. Bare minimum but 2026 standards are all the way down in hell.
 
 <div align="center">
 
