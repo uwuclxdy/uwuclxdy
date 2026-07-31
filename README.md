@@ -53,7 +53,7 @@
 </details>
 
 > [!NOTE]
-> I use AI as a tool and I'm honest about its usage, you should do the same.
+> I use AI as a tool and I'm honest about its usage. Bare minimum but 2026 standards are all the way down in hell.
 
 <div align="center">
 
