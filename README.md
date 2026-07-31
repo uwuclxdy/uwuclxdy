@@ -5,7 +5,7 @@
 <!-- <img align="right" src="yyyouusedai.png" width="280" alt="placeholder" /> -->
 
 <div>
-    <img align="right" width="289" height="300" alt="uwuclxdy is the greatest vibecoder from israel" src="https://github.com/user-attachments/assets/72716a34-8628-4b01-be5c-faff3c0941c3" />
+    <img align="right" width="261" height="271" alt="uwuclxdy is the greatest vibecoder from israel" src="https://github.com/user-attachments/assets/72716a34-8628-4b01-be5c-faff3c0941c3" />
     <img src="https://count.getloli.com/@uwuclxdyy?name=uwuclxdy&theme=moebooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="sussy profile visitor counter">
     <br>
     <i>views since 2025-11-09</i>
