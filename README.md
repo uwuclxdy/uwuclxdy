@@ -51,6 +51,7 @@
 <details>
     <summary><b>ai tools</b></summary>
     <p align="center">
+        <br>
         <a href="https://github.com/uwuclxdy/claudix"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=claudix&theme=catppuccin_mocha" width="400rem" align="left" /></a>
         <a href="https://github.com/uwuclxdy/clauth"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=clauth&theme=catppuccin_mocha" width="400rem" align="right" /></a>
 <!-- 
