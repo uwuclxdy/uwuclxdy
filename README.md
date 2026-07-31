@@ -44,18 +44,26 @@
 </details>
 
 <details>
-    <summary><b>claude code stuff</b></summary>
-    <p align="center">
-<a href="https://github.com/uwuclxdy/claudix"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=claudix&theme=catppuccin_mocha" width="400rem" align="left" /></a><a href="https://github.com/uwuclxdy/clauth"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=clauth&theme=catppuccin_mocha" width="400rem" align="right" /></a>
-<br clear="all" />
-    </p>
-</details>
-
-<details>
     <summary><b>striks n shi</b></summary>
     <img align="left " src="https://streak-stats.demolab.com?user=uwuclxdy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </details>
 
+<details>
+    <summary><b>ai tools</b></summary>
+    <p align="center">
+        <a href="https://github.com/uwuclxdy/claudix"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=claudix&theme=catppuccin_mocha" width="400rem" align="left" /></a>
+        <a href="https://github.com/uwuclxdy/clauth"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=clauth&theme=catppuccin_mocha" width="400rem" align="right" /></a>
+<!-- 
+<a href="https://github.com/uwuclxdy/agentgear"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=agentgear&theme=catppuccin_mocha" width="400rem" align="left" /></a>
+<a href="https://github.com/uwuclxdy/ragcat"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=ragcat&theme=catppuccin_mocha" width="400rem" align="left" /></a>
+<a href="https://github.com/uwuclxdy/slopcat"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=slopcat&theme=catppuccin_mocha" width="400rem" align="left" /></a>
+<a href="https://github.com/uwuclxdy/nyactx"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=nyactx&theme=catppuccin_mocha" width="400rem" align="left" /></a>
+<a href="https://github.com/uwuclxdy/hyaline"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=hyaline&theme=catppuccin_mocha" width="400rem" align="left" /></a>
+<a href="https://github.com/uwuclxdy/raawr"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=raawr&theme=catppuccin_mocha" width="400rem" align="left" /></a>
+-->
+    </p>
+</details>
+<br clear="all">
 <div align="center">
 
 ---
