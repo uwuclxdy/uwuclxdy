@@ -53,7 +53,7 @@
 </details>
 
 > [!NOTE]
-> I try to not use LLMs when contributing to public repos and say so when I do. My vibecoded repos are tagged "vibecoded" and colored orange on my (vibecoded) website.
+> I use AI as a tool and I'm honest about its usage, you should do the same.
 
 <div align="center">
 
