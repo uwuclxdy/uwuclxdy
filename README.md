@@ -45,9 +45,8 @@
 
 <details>
     <summary><b>account</b></summary>
-    <img align="left" src="https://streak-stats.demolab.com?user=uwuclxdy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-    <img align="center" src="https://ghstats.dev/api/sparkline?username=uwuclxdy&theme=catppuccin&days=30&width=320&height=80&border_radius=4&line_color=43ABE5&fill_color=2E93B5&title=30d+commits" alt="Contribution Sparkline" />
-    <br> <p></p>
+    <img src="https://ghstats.dev/api/sparkline?username=uwuclxdy&theme=catppuccin&days=30&width=320&height=80&border_radius=4&line_color=43ABE5&fill_color=2E93B5&title=30d+commits" alt="Contribution Sparkline" />
+    <img src="https://streak-stats.demolab.com?user=uwuclxdy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="streak graph"  />
     <img src="https://github-stats-extended.vercel.app/api?username=uwuclxdy&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" alt="Account stats" />
 </details>
 
