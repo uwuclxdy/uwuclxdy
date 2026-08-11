@@ -8,7 +8,7 @@
     <table align="right">
         <tr>
             <td align="center">
-                <img width="261" height="271" alt="uwuclxdy is the greatest vibecoder from israel" src="https://github.com/user-attachments/assets/72716a34-8628-4b01-be5c-faff3c0941c3" />
+                <a href="https://x.com/Kedr_bit"><img width="261" height="271" alt="uwuclxdy is the greatest vibecoder from israel" src="https://github.com/user-attachments/assets/72716a34-8628-4b01-be5c-faff3c0941c3" /></a>
                 <br>
                 <a href="https://x.com/Kedr_bit">@kedr_bit</a> (twt) <a href="https://www.tiktok.com/@kedr.bit">@kedr.bit</a> (tiktok)
             </td>
