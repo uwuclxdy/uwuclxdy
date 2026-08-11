@@ -5,13 +5,25 @@
 <!-- <img align="right" src="yyyouusedai.png" width="280" alt="placeholder" /> -->
 
 <div>
-    <img align="right" width="261" height="271" alt="uwuclxdy is the greatest vibecoder from israel" src="https://github.com/user-attachments/assets/72716a34-8628-4b01-be5c-faff3c0941c3" />
+    <table align="right">
+        <tr>
+            <td align="center">
+                <img width="261" height="271" alt="uwuclxdy is the greatest vibecoder from israel" src="https://github.com/user-attachments/assets/72716a34-8628-4b01-be5c-faff3c0941c3" />
+                <br>
+                <a href="https://x.com/Kedr_bit">@kedr_bit</a> (twt) <a href="https://www.tiktok.com/@kedr.bit">@kedr.bit</a> (tiktok)
+            </td>
+        </tr>
+    </table>
     <img src="https://count.getloli.com/@uwuclxdyy?name=uwuclxdy&theme=moebooru&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="sussy profile visitor counter">
     <br>
     <i>views since 2025-11-09</i>
+    <br>
+    <img alt="snake-evolution" width="500" align="center" src="https://raw.githubusercontent.com/uwuclxdy/uwuclxdy/output/snake-evolution.svg" />
 </div>
 
 </div>
+
+<br>
 
 <details>
     <summary><b>AUR packages</b></summary>
@@ -51,7 +63,7 @@
 </details>
 
 <details>
-    <summary><b>ai tools</b></summary>
+    <summary><b>slop tools</b></summary>
     <p align="center">
         <br>
         <a href="https://github.com/uwuclxdy/claudix"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=claudix&theme=catppuccin_mocha" width="400rem" align="left" /></a>
