@@ -15,13 +15,18 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - uses: miccy/snake-evolution@v1.3.0
+
+      - name: Fix dist permissions
+        run: sudo chown -R $USER:$USER dist
+
+      - uses: miccy/snake-evolution@v3.5.0
         with:
           github_user_name: uwuclxdy
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: dist/snake-evolution.svg
           theme: cypherpunk # github-dark
           year: 2026
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
