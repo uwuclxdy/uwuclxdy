@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk@v3.5.0
         with:
           github_user_name: uwuclxdy
           outputs: |
@@ -19,7 +19,7 @@ jobs:
       - name: Fix dist permissions
         run: sudo chown -R $USER:$USER dist
 
-      - uses: miccy/snake-evolution@v3.5.0
+      - uses: miccy/snake-evolution@v1.3.0
         with:
           github_user_name: uwuclxdy
           github_token: ${{ secrets.GITHUB_TOKEN }}
