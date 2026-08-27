@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFF?logo=deepseek&logoColor=fff" height="30" alt="deepseek logo" align="texttop" /> > <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" height="30" alt="claude logo" align="texttop" />
+  <img src="https://img.shields.io/badge/GLM-262626?logo=z.ai&logoColor=fff" height="30" alt="deepseek logo" align="texttop" /> > <img src="https://img.shields.io/badge/DeepSeek-4D6BFF?logo=deepseek&logoColor=fff" height="30" alt="deepseek logo" align="texttop" /> > <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" height="30" alt="claude logo" align="texttop" />
 </p>
 
 <!--
