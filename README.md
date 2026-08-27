@@ -62,40 +62,15 @@
     <img src="https://github-stats-extended.vercel.app/api?username=uwuclxdy&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" height="170" alt="Account stats" />
 </details>
 
-<b>slop tools</b>
+**slop tools**
 
-<table>
-    <tr>
-        <th>tool</th>
-        <th>description</th>
-        <th>stars</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/uwuclxdy/clauth">clauth</a></td>
-        <td>Claude Code multi-account manager, usage monitor (CLI, TUI &amp; MCP task delegation)</td>
-        <td><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/clauth" alt="clauth stars"></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/uwuclxdy/claudix">claudix</a></td>
-        <td>Local Copilot-like semantic codebase search for Claude Code (LMStudio, Ollama, any OpenAI-compatible API)</td>
-        <td><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/claudix" alt="claudix stars"></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/uwuclxdy/ai-pricelog">ai-pricelog</a></td>
-        <td>the biggest auto-updated genai pricing index: complete dated price history per model, peak/off-peak rates</td>
-        <td><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/ai-pricelog" alt="ai-pricelog stars"></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/uwuclxdy/cc-system-prompts">cc-system-prompts</a></td>
-        <td>per-model Claude Code system prompts, auto-extracted daily from latest the version</td>
-        <td><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/cc-system-prompts" alt="cc-system-prompts stars"></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/uwuclxdy/agentgear">agentgear</a></td>
-        <td>Rust coding-agent plugin development made easy; ship for Claude Code and 24 other agents without worrying about the compatibility layer</td>
-        <td><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/agentgear" alt="agentgear stars"></td>
-    </tr>
-</table>
+| tool | description | stars |
+|---|---|---|
+| [clauth](https://github.com/uwuclxdy/clauth) | Claude Code multi-account manager, usage monitor (CLI, TUI & MCP task delegation) | [![clauth stars](https://shields.uwuclxdy.dev/github/stars/uwuclxdy/clauth?style=social)](https://github.com/uwuclxdy/clauth/stargazers) |
+| [claudix](https://github.com/uwuclxdy/claudix) | Local Copilot-like semantic codebase search for Claude Code (LMStudio, Ollama, any OpenAI-compatible API) | [![claudix stars](https://shields.uwuclxdy.dev/github/stars/uwuclxdy/claudix?style=flat&labelColor=313244&color=45475A)](https://github.com/uwuclxdy/claudix/stargazers) |
+| [ai-pricelog](https://github.com/uwuclxdy/ai-pricelog) | the biggest auto-updated genai pricing index: complete dated price history per model, peak/off-peak rates | [![ai-pricelog stars](https://shields.uwuclxdy.dev/github/stars/uwuclxdy/ai-pricelog?style=for-the-badge)](https://github.com/uwuclxdy/ai-pricelog/stargazers) |
+| [cc-system-prompts](https://github.com/uwuclxdy/cc-system-prompts) | per-model Claude Code system prompts, auto-extracted daily from latest the version | [![cc-system-prompts stars](https://shields.uwuclxdy.dev/github/stars/uwuclxdy/cc-system-prompts?style=flat&label=%E2%98%85&labelColor=313244&color=45475A)](https://github.com/uwuclxdy/cc-system-prompts/stargazers) |
+| [agentgear](https://github.com/uwuclxdy/agentgear) | Rust coding-agent plugin development made easy; ship for Claude Code and 24 other agents without worrying about the compatibility layer | [![agentgear stars](https://shields.uwuclxdy.dev/github/stars/uwuclxdy/agentgear?style=flat&labelColor=313244&color=43ABE5)](https://github.com/uwuclxdy/agentgear/stargazers) |
 
 <!--
 <a href="https://github.com/uwuclxdy/ragcat"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=ragcat&theme=catppuccin_mocha" width="400rem" align="left" /></a>
