@@ -62,26 +62,48 @@
     <img src="https://github-stats-extended.vercel.app/api?username=uwuclxdy&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" height="170" alt="Account stats" />
 </details>
 
-<details>
-    <summary><b>slop tools</b></summary>
-    <p align="center">
-        <br>
-        <a href="https://github.com/uwuclxdy/clauth"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=clauth&theme=catppuccin_mocha" width="400rem" align="right" /></a>
-        <a href="https://github.com/uwuclxdy/claudix"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=claudix&theme=catppuccin_mocha" width="400rem" align="left" /></a>
-        <a href="https://github.com/uwuclxdy/ai-pricelog"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=ai-pricelog&theme=catppuccin_mocha" width="400rem" align="right" /></a>
-        <a href="https://github.com/uwuclxdy/cc-system-prompts"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=cc-system-prompts&theme=catppuccin_mocha" width="400rem" align="left" /></a>
-        <a href="https://github.com/uwuclxdy/agentgear"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=agentgear&theme=catppuccin_mocha" width="400rem" align="left" /></a>
-    </p>
+<b>slop tools</b>
 
-<!-- 
+<table>
+    <tr>
+        <th>tool</th>
+        <th>description</th>
+        <th>stars</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/uwuclxdy/clauth">clauth</a></td>
+        <td>Claude Code multi-account manager, usage monitor (CLI, TUI &amp; MCP task delegation)</td>
+        <td><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/clauth" alt="clauth stars"></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/uwuclxdy/claudix">claudix</a></td>
+        <td>Local Copilot-like semantic codebase search for Claude Code (LMStudio, Ollama, any OpenAI-compatible API)</td>
+        <td><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/claudix" alt="claudix stars"></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/uwuclxdy/ai-pricelog">ai-pricelog</a></td>
+        <td>the biggest auto-updated genai pricing index: complete dated price history per model, peak/off-peak rates</td>
+        <td><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/ai-pricelog" alt="ai-pricelog stars"></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/uwuclxdy/cc-system-prompts">cc-system-prompts</a></td>
+        <td>per-model Claude Code system prompts, auto-extracted daily from latest the version</td>
+        <td><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/cc-system-prompts" alt="cc-system-prompts stars"></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/uwuclxdy/agentgear">agentgear</a></td>
+        <td>Rust coding-agent plugin development made easy; ship for Claude Code and 24 other agents without worrying about the compatibility layer</td>
+        <td><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/agentgear" alt="agentgear stars"></td>
+    </tr>
+</table>
+
+<!--
 <a href="https://github.com/uwuclxdy/ragcat"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=ragcat&theme=catppuccin_mocha" width="400rem" align="left" /></a>
 <a href="https://github.com/uwuclxdy/slopcat"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=slopcat&theme=catppuccin_mocha" width="400rem" align="left" /></a>
 <a href="https://github.com/uwuclxdy/nyactx"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=nyactx&theme=catppuccin_mocha" width="400rem" align="left" /></a>
 <a href="https://github.com/uwuclxdy/hyaline"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=hyaline&theme=catppuccin_mocha" width="400rem" align="left" /></a>
 <a href="https://github.com/uwuclxdy/raawr"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=raawr&theme=catppuccin_mocha" width="400rem" align="left" /></a>
 -->
-
-</details>
 <br clear="all">
 <div align="center">
 
