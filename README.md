@@ -66,17 +66,21 @@
     <summary><b>slop tools</b></summary>
     <p align="center">
         <br>
-        <a href="https://github.com/uwuclxdy/claudix"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=claudix&theme=catppuccin_mocha" width="400rem" align="left" /></a>
         <a href="https://github.com/uwuclxdy/clauth"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=clauth&theme=catppuccin_mocha" width="400rem" align="right" /></a>
+        <a href="https://github.com/uwuclxdy/claudix"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=claudix&theme=catppuccin_mocha" width="400rem" align="left" /></a>
+        <a href="https://github.com/uwuclxdy/ai-pricelog"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=ai-pricelog&theme=catppuccin_mocha" width="400rem" align="right" /></a>
+        <a href="https://github.com/uwuclxdy/cc-system-prompts"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=cc-system-prompts&theme=catppuccin_mocha" width="400rem" align="left" /></a>
+        <a href="https://github.com/uwuclxdy/agentgear"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=agentgear&theme=catppuccin_mocha" width="400rem" align="left" /></a>
+    </p>
+
 <!-- 
-<a href="https://github.com/uwuclxdy/agentgear"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=agentgear&theme=catppuccin_mocha" width="400rem" align="left" /></a>
 <a href="https://github.com/uwuclxdy/ragcat"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=ragcat&theme=catppuccin_mocha" width="400rem" align="left" /></a>
 <a href="https://github.com/uwuclxdy/slopcat"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=slopcat&theme=catppuccin_mocha" width="400rem" align="left" /></a>
 <a href="https://github.com/uwuclxdy/nyactx"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=nyactx&theme=catppuccin_mocha" width="400rem" align="left" /></a>
 <a href="https://github.com/uwuclxdy/hyaline"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=hyaline&theme=catppuccin_mocha" width="400rem" align="left" /></a>
 <a href="https://github.com/uwuclxdy/raawr"><img src="https://github-readme-stats.shion.dev/api/pin/?username=uwuclxdy&repo=raawr&theme=catppuccin_mocha" width="400rem" align="left" /></a>
 -->
-    </p>
+
 </details>
 <br clear="all">
 <div align="center">
