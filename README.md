@@ -76,27 +76,27 @@
         <tr>
             <td valign="middle"><a href="https://github.com/uwuclxdy/clauth">clauth</a></td>
             <td valign="middle">Claude Code multi-account manager, usage monitor (CLI, TUI &amp; MCP task delegation)</td>
-            <td valign="middle"><a href="https://github.com/uwuclxdy/clauth/stargazers"><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/clauth?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" alt="clauth stars"></a></td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/clauth/stargazers"><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/clauth?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" height="24" alt="clauth stars"></a></td>
         </tr>
         <tr>
             <td valign="middle"><a href="https://github.com/uwuclxdy/claudix">claudix</a></td>
             <td valign="middle">Local Copilot-like semantic codebase search for Claude Code (LMStudio, Ollama, any OpenAI-compatible API)</td>
-            <td valign="middle"><a href="https://github.com/uwuclxdy/claudix/stargazers"><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/claudix?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" alt="claudix stars"></a></td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/claudix/stargazers"><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/claudix?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" height="24" alt="claudix stars"></a></td>
         </tr>
         <tr>
             <td valign="middle"><a href="https://github.com/uwuclxdy/ai-pricelog">ai-pricelog</a></td>
             <td valign="middle">the biggest auto-updated genai pricing index: complete dated price history per model, peak/off-peak rates</td>
-            <td valign="middle"><a href="https://github.com/uwuclxdy/ai-pricelog/stargazers"><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/ai-pricelog?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" alt="ai-pricelog stars"></a></td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/ai-pricelog/stargazers"><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/ai-pricelog?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" height="24" alt="ai-pricelog stars"></a></td>
         </tr>
         <tr>
             <td valign="middle"><a href="https://github.com/uwuclxdy/cc-system-prompts">cc-system-prompts</a></td>
             <td valign="middle">per-model Claude Code system prompts, auto-extracted daily from latest the version</td>
-            <td valign="middle"><a href="https://github.com/uwuclxdy/cc-system-prompts/stargazers"><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/cc-system-prompts?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" alt="cc-system-prompts stars"></a></td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/cc-system-prompts/stargazers"><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/cc-system-prompts?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" height="24" alt="cc-system-prompts stars"></a></td>
         </tr>
         <tr>
             <td valign="middle"><a href="https://github.com/uwuclxdy/agentgear">agentgear</a></td>
             <td valign="middle">Rust coding-agent plugin development made easy; ship for Claude Code and 24 other agents without worrying about the compatibility layer</td>
-            <td valign="middle"><a href="https://github.com/uwuclxdy/agentgear/stargazers"><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/agentgear?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" alt="agentgear stars"></a></td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/agentgear/stargazers"><img src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/agentgear?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" height="24" alt="agentgear stars"></a></td>
         </tr>
     </tbody>
 </table>
