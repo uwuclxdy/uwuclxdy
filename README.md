@@ -89,7 +89,7 @@
             <td valign="middle"><a href="https://github.com/uwuclxdy/ai-pricelog/stargazers">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/ai-pricelog?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" alt="ai-pricelog stars"></a></td>
         </tr>
         <tr>
-            <td valign="middle"><a href="https://github.com/uwuclxdy/cc-system-prompts">cc-system-prompts</a></td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/cc-system-prompts">cc‑system‑prompts</a></td>
             <td valign="middle">per-model Claude Code system prompts, auto-extracted daily</td>
             <td valign="middle"><a href="https://github.com/uwuclxdy/cc-system-prompts/stargazers">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/cc-system-prompts?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" alt="cc-system-prompts stars"></a></td>
         </tr>
