@@ -19,7 +19,7 @@ jobs:
       - name: Fix dist permissions
         run: sudo chown -R $USER:$USER dist
 
-      - uses: miccy/snake-evolution@main
+      - uses: miccy/snake-evolution@e587e06a40e1c6ba8091fb396378834d0f9fb91a
         with:
           github_user_name: uwuclxdy
           github_token: ${{ secrets.GITHUB_TOKEN }}
