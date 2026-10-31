@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" height="30" alt="claude logo" align="texttop" /> > <img src="https://img.shields.io/badge/GLM-262626?logo=z.ai&logoColor=fff" height="30" alt="glm logo" align="texttop" /> > <img src="https://img.shields.io/badge/DeepSeek-4D6BFF?logo=deepseek&logoColor=fff" height="30" alt="deepseek logo" align="texttop" />
+  <img src="https://shields.uwuclxdy.dev/badge/Claude-D97757?logo=claude&logoColor=fff" height="30" alt="claude logo" align="texttop" /> > <img src="https://shields.uwuclxdy.dev/badge/GLM-262626?logo=z.ai&logoColor=fff" height="30" alt="glm logo" align="texttop" /> > <img src="https://shields.uwuclxdy.dev/badge/DeepSeek-4D6BFF?logo=deepseek&logoColor=fff" height="30" alt="deepseek logo" align="texttop" />&emsp;&emsp;<a href="https://uwuclxdy.dev/bench"><img src="https://shields.uwuclxdy.dev/badge/compare-2B2D3A?style=for-the-badge" height="30" alt="compare bench runs" align="texttop" /></a>
 </p>
 
 <!--
@@ -47,9 +47,9 @@
 
 <details>
     <summary><b>account</b></summary>
-    <img src="https://ghstats.dev/api/sparkline?username=uwuclxdy&theme=catppuccin&days=30&width=320&height=80&border_radius=4&line_color=43ABE5&fill_color=2E93B5&title=30d+commits" alt="Contribution Sparkline" />
-    <img src="https://streak-stats.demolab.com?user=uwuclxdy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
-    <img src="https://github-stats-extended.vercel.app/api?username=uwuclxdy&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" height="170" alt="Account stats" />
+    <img src="https://ghstats.dev/api/sparkline?username=uwuclxdy&theme=catppuccin&days=30&width=320&height=80&border_radius=14&line_color=68BBEF&fill_color=203043&title=30d+commits" alt="Contribution Sparkline" />
+    <img src="https://streak-stats.demolab.com?user=uwuclxdy&locale=en&mode=daily&background=20222E&border=2B2D3A&stroke=68BBEF&ring=68BBEF&fire=E88761&currStreakNum=DADCF2&sideNums=B9BCD1&currStreakLabel=A0A3B8&sideLabels=A0A3B8&dates=A0A3B8&hide_border=false&border_radius=14" height="170" alt="streak graph"  />
+    <img src="https://github-stats-extended.vercel.app/api?username=uwuclxdy&show_icons=true&include_all_commits=true&bg_color=20222E&title_color=68BBEF&text_color=B9BCD1&icon_color=68BBEF&border_color=2B2D3A&border_radius=14&ring_color=68BBEF" height="170" alt="Account stats" />
 </details>
 
 <details>
@@ -79,27 +79,47 @@
         <tr>
             <td valign="middle"><a href="https://github.com/uwuclxdy/clauth">clauth</a></td>
             <td valign="middle">Claude Code multi-account manager, usage monitor (CLI, TUI &amp; MCP task delegation)</td>
-            <td valign="middle"><a href="https://github.com/uwuclxdy/clauth">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/clauth?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" alt="clauth stars"></a></td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/clauth">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/clauth?style=flat&amp;label=%E2%AD%90&amp;labelColor=2B2D3A&amp;color=68BBEF" alt="clauth stars"></a></td>
         </tr>
         <tr>
             <td valign="middle"><a href="https://github.com/uwuclxdy/claudix">claudix</a></td>
             <td valign="middle">Local Copilot-like semantic codebase search for Claude Code (LMStudio, Ollama, any OpenAI-compatible API)</td>
-            <td valign="middle"><a href="https://github.com/uwuclxdy/claudix">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/claudix?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" alt="claudix stars"></a></td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/claudix">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/claudix?style=flat&amp;label=%E2%AD%90&amp;labelColor=2B2D3A&amp;color=68BBEF" alt="claudix stars"></a></td>
         </tr>
         <tr>
             <td valign="middle"><a href="https://github.com/uwuclxdy/ai-pricelog">ai-pricelog</a></td>
             <td valign="middle">the biggest auto-updated genai pricing index: complete dated price history per model, peak/off-peak rates</td>
-            <td valign="middle"><a href="https://github.com/uwuclxdy/ai-pricelog">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/ai-pricelog?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" alt="ai-pricelog stars"></a></td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/ai-pricelog">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/ai-pricelog?style=flat&amp;label=%E2%AD%90&amp;labelColor=2B2D3A&amp;color=68BBEF" alt="ai-pricelog stars"></a></td>
         </tr>
         <tr>
             <td valign="middle"><a href="https://github.com/uwuclxdy/cc-system-prompts">cc‑system‑prompts</a></td>
             <td valign="middle">per-model Claude Code system prompts, auto-extracted daily</td>
-            <td valign="middle"><a href="https://github.com/uwuclxdy/cc-system-prompts">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/cc-system-prompts?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" alt="cc-system-prompts stars"></a></td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/cc-system-prompts">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/cc-system-prompts?style=flat&amp;label=%E2%AD%90&amp;labelColor=2B2D3A&amp;color=68BBEF" alt="cc-system-prompts stars"></a></td>
         </tr>
         <tr>
             <td valign="middle"><a href="https://github.com/uwuclxdy/agentgear">agentgear</a></td>
             <td valign="middle">Rust coding-agent plugin development made easy; ship for Claude Code and 24 other agents without worrying about the compatibility layer</td>
-            <td valign="middle"><a href="https://github.com/uwuclxdy/agentgear">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/agentgear?style=flat&amp;label=%E2%AD%90&amp;labelColor=313244&amp;color=43ABE5" alt="agentgear stars"></a></td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/agentgear">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/agentgear?style=flat&amp;label=%E2%AD%90&amp;labelColor=2B2D3A&amp;color=68BBEF" alt="agentgear stars"></a></td>
+        </tr>
+        <tr>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/clauth-proxy-core">clauth-proxy-core</a></td>
+            <td valign="middle">the shared core every clauth-compatible proxy builds on, so every proxy looks the same to clauth and only its proxy↔provider code varies</td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/clauth-proxy-core">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/clauth-proxy-core?style=flat&amp;label=%E2%AD%90&amp;labelColor=2B2D3A&amp;color=68BBEF" alt="clauth-proxy-core stars"></a></td>
+        </tr>
+        <tr>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/clauth-freebuff-proxy">clauth-freebuff-proxy</a></td>
+            <td valign="middle">a clauth proxy for freebuff.com's free tier, speaking the freebuff CLI's wire</td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/clauth-freebuff-proxy">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/clauth-freebuff-proxy?style=flat&amp;label=%E2%AD%90&amp;labelColor=2B2D3A&amp;color=68BBEF" alt="clauth-freebuff-proxy stars"></a></td>
+        </tr>
+        <tr>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/reviewzy">reviewzy</a></td>
+            <td valign="middle">human-in-the-loop mcp review for user-facing text: agents file, a human approves, later sessions apply</td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/reviewzy">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/reviewzy?style=flat&amp;label=%E2%AD%90&amp;labelColor=2B2D3A&amp;color=68BBEF" alt="reviewzy stars"></a></td>
+        </tr>
+        <tr>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/uadclaw">uadclaw</a></td>
+            <td valign="middle">llm-driven android bloat classification, from oem firmware to a reviewed UAD-ng pull request</td>
+            <td valign="middle"><a href="https://github.com/uwuclxdy/uadclaw">&#8203;<img align="absbottom" src="https://shields.uwuclxdy.dev/github/stars/uwuclxdy/uadclaw?style=flat&amp;label=%E2%AD%90&amp;labelColor=2B2D3A&amp;color=68BBEF" alt="uadclaw stars"></a></td>
         </tr>
     </tbody>
 </table>
